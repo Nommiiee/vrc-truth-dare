@@ -3,8 +3,8 @@
 
     "DeckBy": "",
 
-    "Truths": [],
+    "Truths": ["Tell your most embarrasing stories.", "What is the one thing that makes you blush?", "How did you learn to flirt?"],
     "Player_Truths": [],
-    "Dares": [],
+    "Dares": ["Enter a public world and shout 'Mom, I told you I'm gaming!' on repeat for 2 minutes.", "Change your avatar to the smallest one you have and act like you're leading a rebellion against the 'tall ones", "Go up to three random people and challenge them to a rock-paper-scissors match. Loser does 10 pushups IRL"],
     "Player_Dares": []
 }
