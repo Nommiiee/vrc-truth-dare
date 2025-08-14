@@ -1,8 +1,6 @@
 {
     "DeckName": "Wholesome VR Deck",
-
     "DeckBy": "MaliciousMike",
-
     "Truths": [
         "What was your favorite time in VR?",
         "Whats your favorite food to eat in VR?",
@@ -71,5 +69,5 @@
 		"Swap places with <player>.",
 		"Anytime <player> talks to you, you must end it off with 'my liege' till your next turn.",
 		"Have a shot with <player>! Soda or Alcohol, かんぱい!"
-    ]
+    ],
 }
