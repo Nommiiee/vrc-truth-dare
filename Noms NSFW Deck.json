@@ -36,10 +36,9 @@
 		"Have you ever accidentally gotten turned on by someone you didn't mean to during ERP?",
 		"What's the hottest roleplay you've ever done in VR?",
 		"Have you ever had someone control your toy while in VR? How far did it go?",
-		"What's the wildest place in VR you've gotten off in?"
-	],
-    "Player_Truths": [
-        "Would you ERP with <player>? Or did you already?",
+		"What's the wildest place in VR you've gotten off in?",
+
+		"Would you ERP with <player>? Or did you already?",
         "What is sexy about <player>'s avatar?",
         "Would <player> be even better with full body?",
         "Whats a kink you and <player> share?",
@@ -59,7 +58,8 @@
 		"What's the hottest thing you'd want <player> to do to you?",
 		"Looking at <player>, what's the kinkiest secret you think they're hiding?",
 		"If <player> begged you to dominate them in VR, would you do it?"
-    ],
+	],
+    
     "Dares": [
         "Sit in a provocative manner, legs spread.",
         "Post your last saved porno image in the discord.",
@@ -106,10 +106,9 @@
 		"Pick someone and ask them to 'mark' your avatar with a virtual kiss or bite in the spot of their choice.",
 		"Demonstrate your most embarrassing kink as convincingly as possible, no holding back.",
 		"Pick the kinkiest player in the group and ask them what they'd do to you for 3 uninterrupted minutes.",
-		"Choose someone to 'collar' you and bark every time they say your name until your next turn."
-    ],
-    "Player_Dares": [
-        "Sit in <player>'s lap.",
+		"Choose someone to 'collar' you and bark every time they say your name until your next turn.",
+
+		"Sit in <player>'s lap.",
         "Flirt with <player>.",
         "Expose yourself to <player>, give them a show~",
 		"Update your VRC Status, '<player>, they fuck like a jet'.",
@@ -138,6 +137,6 @@
 		"Find a random player in the world and seduce them in the next 3 minutes.",
 		"Mimic <player>'s voice and say the dirtiest thing you can imagine.",
 		"Let someone else puppeteer your avatar and do whatever they want with it.",
-		"Switch to the smallest or largest avatar you own and recreate a kinky scene with <player>."		
-    ]
+		"Switch to the smallest or largest avatar you own and recreate a kinky scene with <player>."	
+    ],
 }
